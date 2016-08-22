@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		65603E2F1D6AAEE700094546 /* 拍照1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 65603E2D1D6AAEE700094546 /* 拍照1.jpg */; };
+		65603E301D6AAEE700094546 /* 拍照2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 65603E2E1D6AAEE700094546 /* 拍照2.jpg */; };
 		656372221D2E5ADC0053469B /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 656372211D2E5ADC0053469B /* main.m */; };
 		656372251D2E5ADC0053469B /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 656372241D2E5ADC0053469B /* AppDelegate.m */; };
 		656372281D2E5ADC0053469B /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 656372271D2E5ADC0053469B /* ViewController.m */; };
@@ -65,6 +67,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		65603E2D1D6AAEE700094546 /* 拍照1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "拍照1.jpg"; sourceTree = "<group>"; };
+		65603E2E1D6AAEE700094546 /* 拍照2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "拍照2.jpg"; sourceTree = "<group>"; };
 		6563721D1D2E5ADC0053469B /* CustomCamera.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CustomCamera.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		656372211D2E5ADC0053469B /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		656372231D2E5ADC0053469B /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -208,6 +212,8 @@
 		656372591D2E5D510053469B /* searchPhotoImg */ = {
 			isa = PBXGroup;
 			children = (
+				65603E2D1D6AAEE700094546 /* 拍照1.jpg */,
+				65603E2E1D6AAEE700094546 /* 拍照2.jpg */,
 				6563725A1D2E5D510053469B /* search_album@2x.png */,
 				6563725B1D2E5D510053469B /* search_album@3x.png */,
 				6563725C1D2E5D510053469B /* search_delete_off@2x.png */,
@@ -362,6 +368,7 @@
 				656372821D2E5D510053469B /* search_photograph@2x.png in Resources */,
 				6563728E1D2E5D510053469B /* search_photograph_lamp_on@2x.png in Resources */,
 				656372811D2E5D510053469B /* search_open@3x.png in Resources */,
+				65603E301D6AAEE700094546 /* 拍照2.jpg in Resources */,
 				6563728B1D2E5D510053469B /* search_photograph_lamp_automatic@3x.png in Resources */,
 				656372841D2E5D510053469B /* search_photograph_close@2x.png in Resources */,
 				656372791D2E5D510053469B /* search_delete_off@3x.png in Resources */,
@@ -371,6 +378,7 @@
 				656372891D2E5D510053469B /* search_photograph_grid@3x.png in Resources */,
 				6563722B1D2E5ADC0053469B /* Main.storyboard in Resources */,
 				656372851D2E5D510053469B /* search_photograph_close@3x.png in Resources */,
+				65603E2F1D6AAEE700094546 /* 拍照1.jpg in Resources */,
 				656372901D2E5D510053469B /* search_takephoto@2x.png in Resources */,
 				6563727C1D2E5D510053469B /* search_grid@2x.png in Resources */,
 				6563727F1D2E5D510053469B /* search_gridBig@3x.png in Resources */,
@@ -633,6 +641,7 @@
 				6563724F1D2E5ADD0053469B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		656372501D2E5ADD0053469B /* Build configuration list for PBXNativeTarget "CustomCameraTests" */ = {
 			isa = XCConfigurationList;
@@ -641,6 +650,7 @@
 				656372521D2E5ADD0053469B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		656372531D2E5ADD0053469B /* Build configuration list for PBXNativeTarget "CustomCameraUITests" */ = {
 			isa = XCConfigurationList;
@@ -649,6 +659,7 @@
 				656372551D2E5ADD0053469B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
